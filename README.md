@@ -31,7 +31,12 @@
   5. 주문 내역 출력
   6. 건의사항 입력
 
-## 4. 오류
+## 4. 프로젝트 실행화면
+<p align="center">
+  <img src="![Kiosk](https://github.com/Minbro-Kim/Java_Kiosk/assets/144206885/411bf438-f5d1-481f-a2f6-0dbf5a56bc6c)">
+</p>
+
+## 5. 오류
 * 장바구니 옵션을 수정할 때, 가격 오류가 발생하는 경우가 있음
 
 ## 참고 및 출처
