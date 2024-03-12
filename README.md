@@ -33,7 +33,7 @@
 
 ## 4. 프로젝트 실행화면
 <p align="center">
-  <img src="https://github.com/Minbro-Kim/Java_Kiosk/assets/144206885/8f1e149a-2259-4535-a128-fcaeeaf0c68d">
+  <img src="https://github.com/Minbro-Kim/Java_Kiosk/assets/144206885/faee86e7-b148-4e73-be88-abe149b23b85">
 </p>
 
 ## 5. 오류
