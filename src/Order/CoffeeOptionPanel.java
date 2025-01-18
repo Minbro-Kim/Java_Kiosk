@@ -223,7 +223,7 @@ class CoffeeOptionPanel extends JPanel{
 						break;
 					case "샷추가":
 						coffee.setShotOption(false);
-						coffee.setOptionPrice(coffee.getOptionPrice()+100);
+						coffee.setOptionPrice(coffee.getOptionPrice()-500);
 						od.updatePQ();
 						break;
 					
