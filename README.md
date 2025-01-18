@@ -36,8 +36,5 @@
   <img src="https://github.com/Minbro-Kim/Java_Kiosk/assets/144206885/faee86e7-b148-4e73-be88-abe149b23b85">
 </p>
 
-## 5. 오류
-* 장바구니 옵션을 수정할 때, 가격 오류가 발생하는 경우가 있음
-
 ## 참고 및 출처
 * 공차 홈페이지 메뉴 및 이미지
